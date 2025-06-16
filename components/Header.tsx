@@ -4,8 +4,8 @@ function Header() {
   return (
     <div className='flex justify-between p-7 shadow-sm'>
         <div className='flex gap-3 items-center'>
-            <Image src='/logos.png' alt='logo'
-            width={50} height={50}/>
+            <Image className='cursor-pointer' src='/new_logo.png' alt='logo'
+            width={60} height={60}/>
             <h2 className='text-[25px] font-semibold cursor-pointer hover:text-red-600 tracking-widest'>A PLACE TO GO</h2>
         </div>
         <ul className='flex gap-8 items-center'>
