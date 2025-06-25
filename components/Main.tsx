@@ -12,6 +12,9 @@ function Main() {
             <div className='mt-[60px]'>
                 <h2 className='text-[50px] tracking-widest font-semibold'>A PLACE TO GO</h2>
             </div>
+            <div>
+              <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet consequatur ducimus quas sed expedita eligendi quibusdam dolor quaerat, laudantium beatae.</h3>
+            </div>
         </div>
     </div>
   )
